@@ -1,0 +1,70 @@
+/*header*/
+.ui-header .ui-bar-a{
+	background-color: #f97242;
+}
+
+/*lijst*/
+li
+{
+	list-style: none;
+	margin-left: -10%;
+}
+li a
+{
+	text-decoration: none;
+}
+ul li p strong span{
+	color: #f97242;
+}
+ul li p i{
+	color: #f97242;
+}
+
+form{
+	clear: both;
+	margin-bottom: 10px;
+}
+table{
+	width: 100%;
+}
+table tr td strong{
+	float: left;
+}
+img{
+	max-width: 200px;
+}
+form tfoot{
+	width: 25%;
+	float: left;
+}
+/*label{
+	float: left; 
+	margin-top: 3%;
+	margin-left: 1%;
+	margin-right: 30px;
+	padding-right: 25%;
+}*/
+
+#container form input {
+	max-width: 300px;
+	
+	
+}
+#right{
+	float: right;
+}
+.left{
+	float: left;
+	width: 50%;
+	
+	
+}
+.clear{
+	clear: both;
+}
+	
+}
+#select{
+	clear: both;
+	margin-top: 30px;
+}
